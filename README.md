@@ -20,34 +20,34 @@ cmake
     sudo apt-get install cmake
     
 ## Usage
-clone the repository
+    clone the repository
 
-Enter to Wumpus-World
+    Enter to Wumpus-World
 
-create folder
+    create folder
 
-Enter to the created folder
+    Enter to the created folder
 
-write the command 'cmake ..'
+    write the command 'cmake ..'
 
-write the command 'make'
+    write the command 'make'
 
-Finally call the executable file 'Wumpus_World'
+    Finally call the executable file 'Wumpus_World'
 
 ## Example
-git clone https://github.com/teddyk251/Wumpus-World.git
+    git clone https://github.com/teddyk251/Wumpus-World.git
 
-cd Wumpus-World
+    cd Wumpus-World
 
-mkdir build
+    mkdir build
 
-cd build
+    cd build
 
-cmake ..
+    cmake ..
 
-make
+    make
 
-./Wumpus_World
+    ./Wumpus_World
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
